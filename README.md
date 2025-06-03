@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohmmadKaif72
 - 👀 I’m interested in  Data Structure And Algorithm
-- 🌱 I’m currently learning JavaScriipt Programming Language
+- 🌱 I’m currently learning JavaScript Programming Language
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me shaikhkaif18161@gmail.com
 
